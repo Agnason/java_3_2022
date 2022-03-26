@@ -1,4 +1,4 @@
-package com.company.boxandfruits;
+package lesson01.boxandfruits;
 
 import java.util.ArrayList;
 

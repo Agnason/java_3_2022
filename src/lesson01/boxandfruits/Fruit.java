@@ -1,4 +1,4 @@
-package com.company.boxandfruits;
+package lesson01.boxandfruits;
 
 public class Fruit <T extends Number> {
     private int count;
